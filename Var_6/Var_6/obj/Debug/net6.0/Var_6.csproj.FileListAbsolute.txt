@@ -1,0 +1,15 @@
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\bin\Debug\net6.0\Var_6.exe
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\bin\Debug\net6.0\Var_6.deps.json
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\bin\Debug\net6.0\Var_6.runtimeconfig.json
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\bin\Debug\net6.0\Var_6.dll
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\bin\Debug\net6.0\Var_6.pdb
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.csproj.AssemblyReference.cache
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.AssemblyInfoInputs.cache
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.AssemblyInfo.cs
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.csproj.CoreCompileInputs.cache
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.dll
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\refint\Var_6.dll
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.pdb
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\Var_6.genruntimeconfig.cache
+D:\ИСП22А\Хромушин Соловьев\Var_6\Var_6\obj\Debug\net6.0\ref\Var_6.dll
